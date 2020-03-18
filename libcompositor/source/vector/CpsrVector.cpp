@@ -1,0 +1,8 @@
+#include "compositor/vector/CpsrSingle4x4.h"
+#include "compositor/vector/float32x2_t.h"
+#include "compositor/vector/float32x4_t.h"
+#include "compositor/vector/float32x4x2_t.h"
+#include "compositor/vector/matrix3x2_t.h"
+#include "compositor/vector/matrix4x4_t.h"
+#include "compositor/vector/int16x8_t.h"
+#include "compositor/vector/uint16x8_t.h"
